@@ -13,3 +13,11 @@ Created by Tomasz Brauntsch & Preston Khorosh
 
 ---
 
+# Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/PretzonPretzel/TBPK-Project.git
+cd TBPK-Project
+
